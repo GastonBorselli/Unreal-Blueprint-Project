@@ -3,13 +3,12 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center"><img width="1000" alt="Start" src="https://user-images.githubusercontent.com/59629632/120905877-244b4600-c623-11eb-80f6-2f8931987eb9.png">
   </a>
 
   <h3 align="center">Welcome To Unreal Blueprint Project!</h3>
 
   <p align="center">
-    Contributor: ZhenXiao Yu  | Start Date: May 2021 | UE4 Version: 4.26.2
+    Start Date: May 2021 | UE4 Version: 4.26.2
     <br />
     <br />
     <a href="https://github.com/zhenxiao-yu/Unreal-Blueprint-Project/issues">Report Bug</a>
@@ -21,7 +20,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Hello everyone, this is an ongoing project I’m working on using UE4’s Blueprint visual scripting feature. The game draws inspiration from PlayerUnknown's Battlegrounds (PUBG), which is an online multiplayer battle royale game developed and published by PUBG Corporation. The Asset used in this game is provided by @BigCatNIU. Please note that the current version of the game does not support multiplayer yet. 
+Hello everyone, this is an ongoing project I’m working on using UE4’s Blueprint visual scripting feature. The game is a close replica of PlayerUnknown's Battlegrounds (PUBG), which is an online multiplayer battle royale game developed and published by PUBG Corporation. Please note that the current version of the game does not support multiplayer yet. 
 
 In this game, you get to control the character using your keyboard and mouse. The Character has three main positions - stand, crouch and prone. You can move around in all three positions. Pressing down Shift/ Ctrl while you move will increase/decrease your character’s speed. In addition, the character can also interact with items she picks up from the ground; the character can equip a vest and helmet for extra protection, and a backpack for extra item storage capacity; she is also able to hold/switch/fire weapons with realistic shaking and recoil effects. The game also has a basic UI interface that allows for the player to drag and drop pieces of equipment from the ground to her backpack/body. Since there isn’t a built-in options menu that allows you to change the keyboard input in the game yet, here are all the inputs I used during development. 
 
